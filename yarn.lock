@@ -6234,10 +6234,10 @@ multicast-dns@^7.2.5:
     dns-packet "^5.2.2"
     thunky "^1.0.2"
 
-mutai-npm-lab@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/mutai-npm-lab/-/mutai-npm-lab-0.2.0.tgz#d8210d4f6c4bd862bc4783db6ba1ee490fbb9ad0"
-  integrity sha512-rnLvlwV/xyIi61qqd8wIIC66+yPdFgI1xBWuTSFg7pi9exFDojF2JSc//PFJH+GfS89q3Sw5W6bUF78i4+XfQA==
+mutai-npm-lab@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/mutai-npm-lab/-/mutai-npm-lab-1.0.0.tgz#51e4234e49a96016dba746ed195714ce0b62a72c"
+  integrity sha512-q0DcL4SWLpdyOZ+Rl8PLNsAL9kJWzTCZtytnLCgaYRER+aEC1AMZ+3UBDabC/sGPjJENtcuZ9duhmyQJFSg6yA==
   dependencies:
     "@babel/runtime" "^7.20.1"
 
