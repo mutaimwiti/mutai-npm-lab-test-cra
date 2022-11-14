@@ -1033,7 +1033,7 @@
     core-js-pure "^3.25.1"
     regenerator-runtime "^0.13.10"
 
-"@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.16.3", "@babel/runtime@^7.18.9", "@babel/runtime@^7.20.1", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.16.3", "@babel/runtime@^7.18.9", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   version "7.20.1"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.20.1.tgz#1148bb33ab252b165a06698fde7576092a78b4a9"
   integrity sha512-mrzLkl6U9YLF8qpqI7TB82PESyEGjm/0Ly91jG575eVxMMlb8fYfOXFZIJ8XfLrJZQbm7dlKry2bJmXBUEkdFg==
@@ -6234,12 +6234,10 @@ multicast-dns@^7.2.5:
     dns-packet "^5.2.2"
     thunky "^1.0.2"
 
-mutai-npm-lab@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/mutai-npm-lab/-/mutai-npm-lab-1.0.0.tgz#51e4234e49a96016dba746ed195714ce0b62a72c"
-  integrity sha512-q0DcL4SWLpdyOZ+Rl8PLNsAL9kJWzTCZtytnLCgaYRER+aEC1AMZ+3UBDabC/sGPjJENtcuZ9duhmyQJFSg6yA==
-  dependencies:
-    "@babel/runtime" "^7.20.1"
+mutai-npm-lab@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/mutai-npm-lab/-/mutai-npm-lab-1.0.1.tgz#9664f72909b65217caba2c27d01cdcdbc7c88d2b"
+  integrity sha512-tHq2FmBqAwH0S4OS/xZZ3v0c8oFbdMrRZrAJqEHdHx7X08SFZOHRRXnsp3bJcwgog0+2K44NLahHcwLVfzU+7g==
 
 nanoid@^3.3.4:
   version "3.3.4"

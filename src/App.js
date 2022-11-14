@@ -1,3 +1,4 @@
+import { myFunction } from "mutai-npm-lab";
 import * as Car from 'mutai-npm-lab/Car';
 import * as Foo from 'mutai-npm-lab/Foo';
 import * as Person from 'mutai-npm-lab/Person';
@@ -11,6 +12,7 @@ console.log('Car exports', Car);
 console.log('Foo exports', Foo);
 console.log('Person exports', Person);
 
+myFunction()();
 
 function App() {
   return (
